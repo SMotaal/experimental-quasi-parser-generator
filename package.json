@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "@smotaal/experimental-quasi-parser-generator",
+  "version": "0.0.1",
+  "author": "Saleh Abdel Motaal <saleh@smotaal.io>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SMotaal/experimental.git",
+    "directory": "quasi-parser-generator"
+  },
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@smotaal.io/tools": "*",
+    "prettier": "*",
+    "typescript": "*"
+  },
+  "prettier": "@smotaal.io/tools/prettier"
+}
